@@ -22,7 +22,7 @@ START = "2017-11-9"
 TODAY = "2021-7-28"
 
 
-st.title("Stock Prediction App")
+st.title("My Crypto Predictor")
 
 Coin = ("BNB-USD","BTC-USD","ETH-USD")
 
