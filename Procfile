@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run C:/Users/gaura/PycharmProjects/CryptoSymbi/Cryptocur.py [ARGUMENTS]
