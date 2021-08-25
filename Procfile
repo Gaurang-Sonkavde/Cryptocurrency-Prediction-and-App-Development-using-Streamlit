@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Cryptocur.py
+web: sh setup.sh && streamlit run Prediction_Binance.py
