@@ -14,8 +14,6 @@ import yfinance as yf
 import pickle
 
 st.set_page_config(layout='wide')
-image = Image.open('Coin.png')
-st.image(image, width = 500)
 
 
 
